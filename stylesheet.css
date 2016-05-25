@@ -1,6 +1,9 @@
 h1{
+  
   font-family: Garamond;
-  color: white;
+  color: darkcyan;
+  text-align: center;
+  font-weight: bold;
 }
 
 p{
