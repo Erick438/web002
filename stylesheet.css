@@ -1,12 +1,25 @@
 h6{
-  font-family: "Garamond";
-  color: red;
+  font-family: Garamond;
+  color: white;
 }
 
 p{
   font-family: Arial;
+  color: white;
 }
 
 div{
-  color: yellow;
+  border-radius: 5px;
+  border: 2px solid deepskyblue;
+  background-color: darkturquoise;
+  height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
+
+span{
+  color: floralwhite;
+  font-family: Garamond;
+  
 }
