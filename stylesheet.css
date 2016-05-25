@@ -10,12 +10,12 @@ p{
 
 div{
   border-radius: 5px;
-  border: 2px solid deepskyblue;
+  border: 5px solid deepskyblue;
   background-color: darkturquoise;
-  height: 50px;
-	width: 120px;
-	margin: auto;
-	text-align: center;
+  height: 25px;
+  width: 60px;
+  margin: auto;
+  text-align: center;
 }
 
 span{
